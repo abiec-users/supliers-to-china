@@ -1,2 +1,2 @@
-# supliers-to-china
+# suplliers-to-china
 Donwload PDF here
